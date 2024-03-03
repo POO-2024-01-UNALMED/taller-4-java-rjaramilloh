@@ -11,7 +11,7 @@ public class Persona {
     }
 
     public Persona() {
-    	
+    	totalPersonas++;
 	}
 
 	public Persona(long cedula, String nombre) {
